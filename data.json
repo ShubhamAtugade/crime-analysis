@@ -1,0 +1,431 @@
+[
+    {
+        "crime_id": "CR-4010",
+        "crime_type": "Theft",
+        "members_involved": 2,
+        "crime_time": "2024-12-07 13:57:06",
+        "city": "Dimapur",
+        "state": "Nagaland",
+        "police_station": "Chumukedima Police Station",
+        "coordinates": {
+            "lat": 25.9073,
+            "lon": 93.7194
+        }
+    },
+    {
+        "crime_id": "CR-3696",
+        "crime_type": "Robbery",
+        "members_involved": 4,
+        "crime_time": "2024-12-07 13:57:06",
+        "city": "Manali",
+        "state": "Himachal Pradesh",
+        "police_station": "Naggar Police Station",
+        "coordinates": {
+            "lat": 32.2396,
+            "lon": 77.1887
+        }
+    },
+    {
+        "crime_id": "CR-9183",
+        "crime_type": "Fraud",
+        "members_involved": 1,
+        "crime_time": "2024-12-07 13:57:06",
+        "city": "Panaji",
+        "state": "Goa",
+        "police_station": "Panaji Police Station",
+        "coordinates": {
+            "lat": 15.4909,
+            "lon": 73.8278
+        }
+    },
+    {
+        "crime_id": "CR-2723",
+        "crime_type": "Fraud",
+        "members_involved": 3,
+        "crime_time": "2024-12-07 13:57:06",
+        "city": "Namchi",
+        "state": "Sikkim",
+        "police_station": "Melli Police Station",
+        "coordinates": {
+            "lat": 27.0838,
+            "lon": 88.6072
+        }
+    },
+    {
+        "crime_id": "CR-6380",
+        "crime_type": "Fraud",
+        "members_involved": 3,
+        "crime_time": "2024-12-07 13:57:06",
+        "city": "Agartala",
+        "state": "Tripura",
+        "police_station": "Battala Police Station",
+        "coordinates": {
+            "lat": 23.8315,
+            "lon": 91.2868
+        }
+    },
+    {
+        "crime_id": "CR-6079",
+        "crime_type": "Theft",
+        "members_involved": 5,
+        "crime_time": "2024-12-07 13:57:06",
+        "city": "Gaya",
+        "state": "Bihar",
+        "police_station": "Makhdumpur Police Station",
+        "coordinates": {
+            "lat": 24.7959,
+            "lon": 85.0263
+        }
+    },
+    {
+        "crime_id": "CR-4419",
+        "crime_type": "Robbery",
+        "members_involved": 3,
+        "crime_time": "2024-12-07 13:57:06",
+        "city": "Namchi",
+        "state": "Sikkim",
+        "police_station": "Melli Police Station",
+        "coordinates": {
+            "lat": 27.0838,
+            "lon": 88.6072
+        }
+    },
+    {
+        "crime_id": "CR-2096",
+        "crime_type": "Fraud",
+        "members_involved": 4,
+        "crime_time": "2024-12-07 13:57:06",
+        "city": "Cuttack",
+        "state": "Odisha",
+        "police_station": "Cuttack Police Station",
+        "coordinates": {
+            "lat": 20.4625,
+            "lon": 85.8828
+        }
+    },
+    {
+        "crime_id": "CR-9801",
+        "crime_type": "Robbery",
+        "members_involved": 1,
+        "crime_time": "2024-12-07 13:57:06",
+        "city": "Aizawl",
+        "state": "Mizoram",
+        "police_station": "Durtlang Police Station",
+        "coordinates": {
+            "lat": 23.736,
+            "lon": 92.7176
+        }
+    },
+    {
+        "crime_id": "CR-6305",
+        "crime_type": "Theft",
+        "members_involved": 1,
+        "crime_time": "2024-12-07 13:57:06",
+        "city": "Varanasi",
+        "state": "Uttar Pradesh",
+        "police_station": "Varanasi Cantt Police Station",
+        "coordinates": {
+            "lat": 25.3176,
+            "lon": 82.9739
+        }
+    },
+    {
+        "crime_id": "CR-5823",
+        "crime_type": "Assault",
+        "members_involved": 1,
+        "crime_time": "2024-12-07 13:57:06",
+        "city": "Jalandhar",
+        "state": "Punjab",
+        "police_station": "Jalandhar Police Station",
+        "coordinates": {
+            "lat": 31.3254,
+            "lon": 75.5793
+        }
+    },
+    {
+        "crime_id": "CR-8574",
+        "crime_type": "Assault",
+        "members_involved": 5,
+        "crime_time": "2024-12-07 13:57:06",
+        "city": "Agra",
+        "state": "Uttar Pradesh",
+        "police_station": "Sadar Bazar Police Station",
+        "coordinates": {
+            "lat": 27.1767,
+            "lon": 78.0081
+        }
+    },
+    {
+        "crime_id": "CR-4989",
+        "crime_type": "Assault",
+        "members_involved": 5,
+        "crime_time": "2024-12-07 13:57:06",
+        "city": "Khammam",
+        "state": "Telangana",
+        "police_station": "Srinivasa Colony Police Station",
+        "coordinates": {
+            "lat": 17.2477,
+            "lon": 80.149
+        }
+    },
+    {
+        "crime_id": "CR-9525",
+        "crime_type": "Theft",
+        "members_involved": 3,
+        "crime_time": "2024-12-07 13:57:06",
+        "city": "Hyderabad",
+        "state": "Telangana",
+        "police_station": "Hyderabad Police Station",
+        "coordinates": {
+            "lat": 17.385,
+            "lon": 78.4867
+        }
+    },
+    {
+        "crime_id": "CR-2634",
+        "crime_type": "Robbery",
+        "members_involved": 5,
+        "crime_time": "2024-12-07 13:57:06",
+        "city": "Ranchi",
+        "state": "Jharkhand",
+        "police_station": "Ranchi Police Station",
+        "coordinates": {
+            "lat": 23.3441,
+            "lon": 85.3096
+        }
+    },
+    {
+        "crime_id": "CR-4764",
+        "crime_type": "Robbery",
+        "members_involved": 2,
+        "crime_time": "2024-12-07 13:57:06",
+        "city": "Haridwar",
+        "state": "Uttarakhand",
+        "police_station": "Bhupatwala Police Station",
+        "coordinates": {
+            "lat": 29.9457,
+            "lon": 78.1642
+        }
+    },
+    {
+        "crime_id": "CR-9484",
+        "crime_type": "Robbery",
+        "members_involved": 5,
+        "crime_time": "2024-12-07 13:57:06",
+        "city": "Udaipur",
+        "state": "Tripura",
+        "police_station": "Kumarghat Police Station",
+        "coordinates": {
+            "lat": 23.2295,
+            "lon": 91.3072
+        }
+    },
+    {
+        "crime_id": "CR-6903",
+        "crime_type": "Theft",
+        "members_involved": 5,
+        "crime_time": "2024-12-07 13:57:06",
+        "city": "Guwahati",
+        "state": "Assam",
+        "police_station": "Dispur Police Station",
+        "coordinates": {
+            "lat": 26.1445,
+            "lon": 91.7362
+        }
+    },
+    {
+        "crime_id": "CR-9257",
+        "crime_type": "Assault",
+        "members_involved": 1,
+        "crime_time": "2024-12-07 13:57:06",
+        "city": "Panaji",
+        "state": "Goa",
+        "police_station": "Panaji Police Station",
+        "coordinates": {
+            "lat": 15.4909,
+            "lon": 73.8278
+        }
+    },
+    {
+        "crime_id": "CR-1943",
+        "crime_type": "Theft",
+        "members_involved": 4,
+        "crime_time": "2024-12-07 13:57:06",
+        "city": "Bhubaneswar",
+        "state": "Odisha",
+        "police_station": "Bhubaneswar Police Station",
+        "coordinates": {
+            "lat": 20.2961,
+            "lon": 85.8189
+        }
+    },
+    {
+        "crime_id": "CR-8029",
+        "crime_type": "Robbery",
+        "members_involved": 4,
+        "crime_time": "2024-12-07 13:57:12",
+        "city": "Jamshedpur",
+        "state": "Jharkhand",
+        "police_station": "Jamshedpur Police Station",
+        "coordinates": {
+            "lat": 22.8046,
+            "lon": 86.2027
+        }
+    },
+    {
+        "crime_id": "CR-2623",
+        "crime_type": "Assault",
+        "members_involved": 2,
+        "crime_time": "2024-12-07 13:57:14",
+        "city": "Rajkot",
+        "state": "Gujarat",
+        "police_station": "Kalavad Police Station",
+        "coordinates": {
+            "lat": 22.3039,
+            "lon": 70.8022
+        }
+    },
+    {
+        "crime_id": "CR-4548",
+        "crime_type": "Robbery",
+        "members_involved": 1,
+        "crime_time": "2024-12-07 13:57:16",
+        "city": "Manali",
+        "state": "Himachal Pradesh",
+        "police_station": "Naggar Police Station",
+        "coordinates": {
+            "lat": 32.2396,
+            "lon": 77.1887
+        }
+    },
+    {
+        "crime_id": "CR-8963",
+        "crime_type": "Theft",
+        "members_involved": 1,
+        "crime_time": "2024-12-07 13:57:18",
+        "city": "Chandigarh",
+        "state": "Haryana",
+        "police_station": "Chandigarh Sector 31 Police Station",
+        "coordinates": {
+            "lat": 30.7333,
+            "lon": 76.7794
+        }
+    },
+    {
+        "crime_id": "CR-5172",
+        "crime_type": "Fraud",
+        "members_involved": 2,
+        "crime_time": "2024-12-07 13:57:20",
+        "city": "Itanagar",
+        "state": "Arunachal Pradesh",
+        "police_station": "Itanagar Police Station",
+        "coordinates": {
+            "lat": 27.1,
+            "lon": 93.6167
+        }
+    },
+    {
+        "crime_id": "CR-8382",
+        "crime_type": "Robbery",
+        "members_involved": 5,
+        "crime_time": "2024-12-07 13:57:22",
+        "city": "Imphal",
+        "state": "Manipur",
+        "police_station": "Imphal Police Station",
+        "coordinates": {
+            "lat": 24.8178,
+            "lon": 93.9368
+        }
+    },
+    {
+        "crime_id": "CR-8358",
+        "crime_type": "Robbery",
+        "members_involved": 5,
+        "crime_time": "2024-12-07 13:57:24",
+        "city": "Kohima",
+        "state": "Nagaland",
+        "police_station": "Thizama Police Station",
+        "coordinates": {
+            "lat": 25.6723,
+            "lon": 94.1127
+        }
+    },
+    {
+        "crime_id": "CR-3676",
+        "crime_type": "Theft",
+        "members_involved": 3,
+        "crime_time": "2024-12-07 13:57:26",
+        "city": "Korba",
+        "state": "Chhattisgarh",
+        "police_station": "Korba West Police Station",
+        "coordinates": {
+            "lat": 22.3581,
+            "lon": 82.7024
+        }
+    },
+    {
+        "crime_id": "CR-3528",
+        "crime_type": "Robbery",
+        "members_involved": 1,
+        "crime_time": "2024-12-07 13:57:28",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "police_station": "T Nagar Police Station",
+        "coordinates": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "crime_id": "CR-3574",
+        "crime_type": "Theft",
+        "members_involved": 1,
+        "crime_time": "2024-12-07 13:57:30",
+        "city": "Rajkot",
+        "state": "Gujarat",
+        "police_station": "Rajkot Police Station",
+        "coordinates": {
+            "lat": 22.3039,
+            "lon": 70.8022
+        }
+    },
+    {
+        "crime_id": "CR-8687",
+        "crime_type": "Theft",
+        "members_involved": 4,
+        "crime_time": "2024-12-07 13:57:32",
+        "city": "Warangal",
+        "state": "Telangana",
+        "police_station": "Warangal Police Station",
+        "coordinates": {
+            "lat": 17.9784,
+            "lon": 79.5941
+        }
+    },
+    {
+        "crime_id": "CR-6070",
+        "crime_type": "Fraud",
+        "members_involved": 1,
+        "crime_time": "2024-12-07 13:57:34",
+        "city": "Tirupati",
+        "state": "Andhra Pradesh",
+        "police_station": "Tirupati Urban Police Station",
+        "coordinates": {
+            "lat": 13.6288,
+            "lon": 79.4197
+        }
+    },
+    {
+        "crime_id": "CR-9656",
+        "crime_type": "Robbery",
+        "members_involved": 2,
+        "crime_time": "2024-12-07 13:57:36",
+        "city": "Ranchi",
+        "state": "Jharkhand",
+        "police_station": "Ranchi Police Station",
+        "coordinates": {
+            "lat": 23.3441,
+            "lon": 85.3096
+        }
+    }
+]
